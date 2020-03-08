@@ -20,7 +20,7 @@
 |Feb 27| Midterm Exam ||| Push up **Everything** you have|
 |Spring Break Week| ||||
 |Mar 10 |Numerical Derivatives | [Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf), `PresentDerivatives.mlx`, `PythonDerivatives.ipynb` | Numerical Derivative Powerpoint on Blackboard||
-|Mar 12 |Numerical Integration|[Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf), `PresentIntegration.mlx`, `PythonIntegration.ipynb`| Integration Powerpoint on BB|Final Project Outline Due|
+|Mar 12 |Numerical Integration|[Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf), `PresentIntegration.mlx`, `PythonIntegration.ipynb`| Integration Powerpoint on BB|Final Project Outline Due, Problem 7/7a done|
 |Mar 17 | Finer Points on Numerical Integration and Error Estimation |[Romberg Method](https://en.wikipedia.org/wiki/Romberg%27s_method)|	|Project #1 Due|
 |Mar 19 |ODE Solvers in MATLAB	| [Runge-Kutta Method](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods), [Choosing a MATLAB function](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html), [Starting point in MathWorks Doc](https://www.mathworks.com/help/matlab/ordinary-differential-equations.html)|Project #2||
 |Mar 24 | ODE Solvers	in Python	|[Scipy Doc for ODEs](https://docs.scipy.org/doc/scipy/reference/integrate.html), [ODEs Examples in Python's Scipy](https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations)| ||
