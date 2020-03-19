@@ -1,4 +1,4 @@
-function [dy,xc] = Der(F,x,varargin)
+clafunction [dy,xc] = Der(F,x,varargin)
 % D calculates the derivative of the function F(x) using one of three
 % methods: forward difference, central difference, and expolated difference
 % D(F,x,method) returns the x and y coordinate of the derivative function.
