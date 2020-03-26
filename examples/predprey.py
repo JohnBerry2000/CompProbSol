@@ -3,7 +3,7 @@ from pylab import plot,xlabel,ylabel,show,figure,legend
 # This file contains two functions. f(r,t) defines the lokta-volterra model and predatorprey solves the model using a 4th order runge-kutta method
 
 #These parameters produce a periodic rabbit/fox populations
-alpha = 2
+alpha = 1
 beta = 0.01
 gamma = 1
 delta = 0.01
