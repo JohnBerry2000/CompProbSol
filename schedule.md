@@ -29,7 +29,7 @@
 |Apr 2 | Mathematica Scripting	|[Quick Mathematica Reference](http://www.wolfram.com/language/fast-introduction-for-programmers/en/options/)| 		||Final Project First Draft Due|
 |Apr 7	|Mathematica Advanced Tools	|[Manipulate](https://reference.wolfram.com/language/tutorial/IntroductionToManipulate.html), [Defining Functions](https://reference.wolfram.com/language/tutorial/DefiningFunctions.html)|Problem #8||
 |Apr 9	| Final Project Feedback Time	|Sign up for Meetings by April 5 | |Project #2 Due (check solutions at [Drag Calculator](https://www.desmos.com/calculator/on4xzwtdwz))|
-|Apr 14|  |||Absolute Deadline|
+|Apr 14| Lingering Questions and Course Wrap-up |||Absolute Deadline For Final Project|
 
 <!----
 | Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
