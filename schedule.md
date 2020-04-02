@@ -28,7 +28,7 @@
 |Mar 31 |Random Number Generators | [MATLAB's Random Number Generators](https://www.mathworks.com/help/matlab/random-number-generation.html), [Python's Random Number Generators](https://machinelearningmastery.com/how-to-generate-random-numbers-in-python) [Mersenne Twistor Method](https://en.wikipedia.org/wiki/Mersenne_Twister), `PresentRandom.mlx`, `RandomNumbersv2.ipynb`|||
 |Apr 2 | Mathematica Scripting	|[Quick Mathematica Reference](http://www.wolfram.com/language/fast-introduction-for-programmers/en/), `MathematicaBasics.nb`| 		Work Through `Mathematica_Lesson.nb`||Final Project First Draft Due|
 |Apr 7	|Mathematica Advanced Tools	|[Manipulate](https://reference.wolfram.com/language/tutorial/IntroductionToManipulate.html), [Defining Functions](https://reference.wolfram.com/language/tutorial/DefiningFunctions.html)|Problem #8||
-|Apr 9	| Final Project Feedback Time	|Sign up for Meetings by April 5 | |Project #2 Due (check solutions at [Drag Calculator](https://www.desmos.com/calculator/on4xzwtdwz))|
+|Apr 9	| Final Project Feedback Time: **No Class**	|[Sign up for Meetings by April 5](https://doodle.com/poll/xmnqf9fg75b9rn9m) | |Project #2 Due (check solutions at [Drag Calculator](https://www.desmos.com/calculator/on4xzwtdwz))|
 |Apr 14| Lingering Questions and Course Wrap-up |||Absolute Deadline For Final Project|
 
 <!----
